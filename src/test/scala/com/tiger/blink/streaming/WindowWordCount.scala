@@ -6,7 +6,7 @@ import org.apache.flink.streaming.api.windowing.time.Time
 
 
 /**
-  * @author 王澎 2019-06-19
+  * @author Created by SleepLotus on 2019-06-20
   */
 class WindowWordCount {
 

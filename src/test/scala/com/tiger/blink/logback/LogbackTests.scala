@@ -4,7 +4,7 @@ import org.junit.Test
 import org.slf4j.{Logger, LoggerFactory}
 
 /**
-  * @author 王澎
+  * @author Created by SleepLotus on 2019-06-20
   */
 class LogbackTests {
 

@@ -10,7 +10,7 @@ import org.yaml.snakeyaml.constructor.Constructor;
 import java.io.InputStream;
 
 /**
- * @author 王澎
+ * @author Created by SleepLotus on 2019-06-20
  */
 @Getter
 @Setter

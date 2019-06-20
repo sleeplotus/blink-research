@@ -4,7 +4,7 @@ import org.apache.flink.api.scala._
 import org.junit.Test
 
 /**
-  * @author 王澎 2019-06-19
+  * @author Created by SleepLotus on 2019-06-20
   */
 class WordCount {
 

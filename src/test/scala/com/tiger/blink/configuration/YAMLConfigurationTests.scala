@@ -8,7 +8,7 @@ import org.yaml.snakeyaml.Yaml
 import org.yaml.snakeyaml.constructor.Constructor
 
 /**
-  * @author 王澎
+  * @author Created by SleepLotus on 2019-06-20
   */
 class YAMLConfigurationTests {
 
