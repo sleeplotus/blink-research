@@ -71,13 +71,11 @@
             <groupId>com.alibaba.blink</groupId>
             <artifactId>flink-scala_${scala.binary.version}</artifactId>
             <version>${blink.version}</version>
-            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.alibaba.blink</groupId>
             <artifactId>flink-streaming-scala_${scala.binary.version}</artifactId>
             <version>${blink.version}</version>
-            <scope>provided</scope>
         </dependency>
     </dependencies>
 
